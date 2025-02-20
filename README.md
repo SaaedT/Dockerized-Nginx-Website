@@ -58,7 +58,8 @@ docker run -d -p 3000:80 --name web website
 The website is hosted inside the Docker container. Below is a screenshot showing the website running successfully:
 
 📸 Screenshot:
-![Website Preview](images/website_preview.png)
+![Website Preview](images/website_preview_1.png)
+![Website Preview](images/website_preview_2.png)
 
 ### Step 6: Save the Running Container as an Image
 ```bash
