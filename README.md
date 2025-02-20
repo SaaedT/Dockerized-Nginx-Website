@@ -16,14 +16,7 @@ The project structure is as follows:
 /home/ubuntu/
 │── Course-Docker/        # Cloned GitHub repository (website files)
 │── Dockerfile           # Docker instructions (inside /home/ubuntu)
-│── images/              # Screenshots of each step
-│    ├── dockerfile.png
-│    ├── directory_structure.png
-│    ├── running_container.png
-│    ├── website_preview.png
-│    ├── image_push_commands.png
-│    ├── dockerhub_account.png
-│── README.md            # Project documentation
+
 ```
 
 ## Setup Instructions
