@@ -46,7 +46,7 @@ ls -l /home/ubuntu/
 
 ### Step 4: Run the Container
 ```bash
-docker run -d -p 3000:80 --name web website
+docker run -it --rm -d -p 3000:80 --name web website
 ```
 - `-d` → Runs the container in detached mode.
 - `-p 3000:80` → Maps port 3000 on your machine to port 80 inside the container.
